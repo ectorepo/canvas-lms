@@ -1,0 +1,31 @@
+#+title:    Ectorepo: Canvas LMS
+#+author:   David Conner
+#+email: noreply@te.xel.io
+
+
+* Docs
+
++ Official Docs
++ [[https://community.canvaslms.com/t5/Instructor-Guix/tkb-p/Instructor][Instructor Guide ToC]]
++ [[https://canvas.instructure.com/doc/api][OpenAPI docs]]
++ [[https://canvas.instructure.com/doc/api/file.graphql.html][GraphQL docs]]
+
+* Resources
+
++ [[https://community.canvaslms.com/t5/Canvas-Developers-Group/Canvas-APIs-Getting-started-the-practical-ins-and-outs-gotchas/ba-p/263685][Canvas API's: Getting Started]] (devguide)
+
+
+
+* Misc
+
+  project[path=canvas-lms name=instructure/canvas-data-cli groups=tools]
+
+** Org-Babel GraphQL
+
+
+
+** Org-Babel Rest Client
+
+#+begin_src restclient
+
+#+end_src
