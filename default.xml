@@ -7,6 +7,6 @@
   <project path="canvas-lms" name="instructure/canvas-lms" groups="basic" />
 
   <project path="tools/canvas-data-cli" name="instructure/canvas-data-cli" groups="tools"/>
-  <project path="examples/canvas-studio-api-examples" name="instructure/canvas-studio-api-examples" groups="api,examples" />
+  <project path="examples/canvas-studio-api-examples" name="instructure/canvas-studio-api-examples" groups="api,examples" revision="refs/heads/main" />
   <project path="tools/openapi-to-plantuml" name="davidmoten/openapi-to-plantuml" groups="tools" />
 </manifest>
