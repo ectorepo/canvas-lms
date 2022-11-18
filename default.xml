@@ -9,4 +9,5 @@
   <project path="tools/canvas-data-cli" name="instructure/canvas-data-cli" groups="tools"/>
   <project path="examples/canvas-studio-api-examples" name="instructure/canvas-studio-api-examples" groups="api,examples" revision="refs/heads/main" />
   <project path="tools/openapi-to-plantuml" name="davidmoten/openapi-to-plantuml" groups="tools" />
+  <project path="org-lms-dc" name="dcunited001/org-lms" groups="basic" />
 </manifest>

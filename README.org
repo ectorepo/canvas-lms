@@ -22,7 +22,9 @@
 
 ** Org-Babel GraphQL
 
+#+begin_src graphql
 
+#+end_src
 
 ** Org-Babel Rest Client
 
