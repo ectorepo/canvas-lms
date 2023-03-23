@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest>
-  <include name="_remotes.xml" />
-  <default remote="github" sync-j="8" revision="refs/heads/master" />
-
-  <project path="org-lms" name="titaniumbones/org-lms" groups="basic" />
-  <project path="canvas-lms" name="instructure/canvas-lms" groups="basic" />
-
+  <include name="_remotes.xml"/>
+  <default remote="github" sync-j="8" revision="refs/heads/master"/>
+  <project path="org-lms" name="titaniumbones/org-lms" groups="basic"/>
+  <project path="canvas-lms" name="instructure/canvas-lms" groups="basic"/>
   <project path="tools/canvas-data-cli" name="instructure/canvas-data-cli" groups="tools"/>
-  <project path="examples/canvas-studio-api-examples" name="instructure/canvas-studio-api-examples" groups="api,examples" revision="refs/heads/main" />
-  <project path="tools/openapi-to-plantuml" name="davidmoten/openapi-to-plantuml" groups="tools" />
-  <project path="org-lms-dc" name="dcunited001/org-lms" groups="basic" />
+  <project path="examples/canvas-studio-api-examples" name="instructure/canvas-studio-api-examples" groups="api,examples" revision="refs/heads/main"/>
+  <project path="tools/openapi-to-plantuml" name="davidmoten/openapi-to-plantuml" groups="tools"/>
+  <project path="org-lms-dc" name="dcunited001/org-lms" groups="basic"/>
 </manifest>
